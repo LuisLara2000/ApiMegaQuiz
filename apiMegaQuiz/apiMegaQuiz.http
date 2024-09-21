@@ -1,0 +1,6 @@
+@apiMegaQuiz_HostAddress = http://localhost:5212
+
+GET {{apiMegaQuiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
