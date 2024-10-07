@@ -12,10 +12,7 @@ namespace apiMegaQuiz.Models
         public string rIncorrecta3 { get; set; }
         public string rIncorrecta4 { get; set; }
         public string rIncorrecta5 { get; set; }
-        public string rIncorrecta6 { get; set; }
         public int estado { get; set; }
         public int dificultad {  get; set; }
-
-
     }
 }
