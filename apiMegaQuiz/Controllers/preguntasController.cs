@@ -13,7 +13,7 @@ namespace apiMegaQuiz.Controllers
     [ApiController]
     public class preguntasController : Controller
     {
-        // obtener la cadena de conexion a la base de datos
+        // obtener la cadena de conexion la base de datos
         private readonly string cadenaSQL;
         // contructo, obtiene la cadena de conexion 
         public preguntasController(IConfiguration config)
